@@ -1,0 +1,10 @@
+C:\Users\Rubens Souza\source\repos\MemberStressTest\MemberStressTest\bin\Release\netcoreapp2.0\MemberStressTest.deps.json
+C:\Users\Rubens Souza\source\repos\MemberStressTest\MemberStressTest\bin\Release\netcoreapp2.0\MemberStressTest.runtimeconfig.json
+C:\Users\Rubens Souza\source\repos\MemberStressTest\MemberStressTest\bin\Release\netcoreapp2.0\MemberStressTest.runtimeconfig.dev.json
+C:\Users\Rubens Souza\source\repos\MemberStressTest\MemberStressTest\bin\Release\netcoreapp2.0\MemberStressTest.dll
+C:\Users\Rubens Souza\source\repos\MemberStressTest\MemberStressTest\bin\Release\netcoreapp2.0\MemberStressTest.pdb
+C:\Users\Rubens Souza\source\repos\MemberStressTest\MemberStressTest\obj\Release\netcoreapp2.0\MemberStressTest.csproj.CoreCompileInputs.cache
+C:\Users\Rubens Souza\source\repos\MemberStressTest\MemberStressTest\obj\Release\netcoreapp2.0\MemberStressTest.AssemblyInfoInputs.cache
+C:\Users\Rubens Souza\source\repos\MemberStressTest\MemberStressTest\obj\Release\netcoreapp2.0\MemberStressTest.AssemblyInfo.cs
+C:\Users\Rubens Souza\source\repos\MemberStressTest\MemberStressTest\obj\Release\netcoreapp2.0\MemberStressTest.dll
+C:\Users\Rubens Souza\source\repos\MemberStressTest\MemberStressTest\obj\Release\netcoreapp2.0\MemberStressTest.pdb
